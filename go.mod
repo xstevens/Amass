@@ -10,10 +10,15 @@ require (
 	github.com/cayleygraph/cayley v0.7.5
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/chromedp/cdproto v0.0.0-20190926234355-1b4886c6fad6 // indirect
+	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 // indirect
+	github.com/d4l3k/messagediff v1.2.1 // indirect
 	github.com/dghubble/go-twitter v0.0.0-20190719072343-39e5462e111f
+	github.com/dlclark/regexp2 v1.2.0 // indirect
+	github.com/dop251/goja v0.0.0-20190912223329-aa89e6a4c733 // indirect
 	github.com/fatih/color v1.7.0
 	github.com/geziyor/geziyor v0.0.0-20190913113429-9b8a3837bd4a
 	github.com/go-ini/ini v1.48.0
+	github.com/go-sourcemap/sourcemap v2.1.2+incompatible // indirect
 	github.com/gobuffalo/envy v1.7.1 // indirect
 	github.com/gobuffalo/packr v1.30.1
 	github.com/gogo/protobuf v1.3.0 // indirect
@@ -30,14 +35,18 @@ require (
 	github.com/prometheus/common v0.7.0 // indirect
 	github.com/prometheus/procfs v0.0.5 // indirect
 	github.com/qasaur/gremgo v0.0.0-20180719101618-fa23ada7c5da
+	github.com/remyoudompheng/bigfft v0.0.0-20190728182440-6a916e37a237 // indirect
 	github.com/robertkrimen/otto v0.0.0-20180617131154-15f95af6e78d // indirect
 	github.com/rogpeppe/go-internal v1.4.0 // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
+	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337 // indirect
+	github.com/thetannerryan/ring v1.1.1 // indirect
 	github.com/tylertreat/BoomFilters v0.0.0-20181028192813-611b3dbe80e8 // indirect
 	golang.org/x/crypto v0.0.0-20190927123631-a832865fa7ad // indirect
 	golang.org/x/net v0.0.0-20190926025831-c00fd9afed17 // indirect
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sys v0.0.0-20190927073244-c990c680b611 // indirect
 	google.golang.org/appengine v1.6.4 // indirect
+	gopkg.in/ini.v1 v1.49.0 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 )
